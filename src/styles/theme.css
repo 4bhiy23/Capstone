@@ -1,0 +1,7 @@
+:root {
+  --color-primary: #00afa0;        /* Mint green */
+  --color-primary-dark: #0d7d6f;   /* Dark teal */
+  --color-accent: #facc15;         /* Yellow accent */
+  --color-bg: #f8fafc;             /* Soft white */
+  --color-text: #0f172a;           /* Navy text */
+}
