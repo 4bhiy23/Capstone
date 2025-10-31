@@ -1,16 +1,34 @@
-# React + Vite
+# 🏡 DwellSmart — Real Estate Frontend (React + Tailwind + Shadcn)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**DwellSmart** is a modern frontend-only web project built using **React**, **Vite**, **Tailwind CSS**, and **Shadcn UI**.  
+It represents the UI of a real estate platform where users can explore property listings, read testimonials, and navigate through different sections — built purely for learning and showcasing UI skills.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Project Overview
+This is a **UI-focused project** designed to replicate the feel of a professional real estate website.  
+It includes:
+- A navbar with logo and navigation links  
+- Hero section introducing the platform  
+- Feature highlight cards  
+- Property showcase cards  
+- Testimonials section  
+- Footer with quick links and branding  
 
-## React Compiler
+> ⚠️ The project is **not fully responsive yet** — it’s currently optimized for desktop view.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Technology | Purpose |
+|-------------|----------|
+| **React** | Component-based UI library |
+| **Vite** | Fast build tool and dev environment |
+| **Tailwind CSS** | Utility-first styling framework |
+| **Shadcn/UI** | Beautiful and accessible prebuilt components |
+| **Radix UI** | Primitives used internally by Shadcn components |
+| **class-variance-authority (CVA)** | Handles Tailwind variant management (e.g. button sizes & colors) |
+| **lucide-react** | Icon library for clean, modern icons |
+
+---
