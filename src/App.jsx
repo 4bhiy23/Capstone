@@ -1,20 +1,21 @@
-import { Button } from "@/components/ui/button"
+import { Routes , Route} from "react-router-dom"
 import Navbar from "./components/Navbar"
-import HeroSection from "./components/HeroSection"
-import WhyUs from "./components/WhyUs"
-import Featured from "./components/Featured"
-import Flow from "./components/Flow"
+import Home from "./components/pages/Home"
+import Buy from "./components/pages/Buy"
+import Explore from "./components/pages/Explore"
+import Contact from "./components/pages/Contact"
+import About from "./components/pages/About"
 function App() {
   return (
-    // <div className="">
-    //   <Button>Click me</Button>
-    // </div>
     <div>
       <Navbar />
-      <HeroSection />
-      <WhyUs />
-      <Featured />
-      <Flow />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/buy" element={<Buy />} />
+        <Route path="/explore" element={<Explore />} />
+        <Route path="/contact" element={<Contact />} />
+        <Route path="/about" element={<About />} />
+      </Routes>
     </div>
   )
 }
