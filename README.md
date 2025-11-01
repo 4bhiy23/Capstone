@@ -6,13 +6,14 @@ It represents the UI of a real estate platform where users can explore property 
 ---
 
 ## 🎯 Project Overview
+
 This is a **UI-focused project** designed to replicate the feel of a professional real estate website.  
 It includes:
 - A navbar with logo and navigation links  
 - Hero section introducing the platform  
 - Feature highlight cards  
 - Property showcase cards  
-- Testimonials section  
+- Testimonials section (Swiper-powered carousel)  
 - Footer with quick links and branding  
 
 > ⚠️ The project is **not fully responsive yet** — it’s currently optimized for desktop view.
@@ -30,5 +31,7 @@ It includes:
 | **Radix UI** | Primitives used internally by Shadcn components |
 | **class-variance-authority (CVA)** | Handles Tailwind variant management (e.g. button sizes & colors) |
 | **lucide-react** | Icon library for clean, modern icons |
+| **Swiper (swiper.js)** | Responsive, touch-friendly carousel used for testimonials and sliders |
+| **Framer Motion** *(optional)* | For smooth animations and fade-ins across sections |
 
 ---

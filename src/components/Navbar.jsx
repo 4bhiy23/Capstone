@@ -3,9 +3,9 @@ import { Button } from './ui/button'
 import { Link } from 'react-router-dom'
 const Navbar = () => {
   return (
-    <div className='flex justify-between items-center px-2 fixed top-0 w-full shadow-2xl backdrop-blur-sm py-2'>
+    <div className='z-10 flex justify-between items-center px-2 fixed top-0 w-full shadow-2xl backdrop-blur-sm py-2'>
         <div className="logo">
-            <img src="./src/assets/logo/dwellsmart-light.png" alt="" className='h-10' />
+            <img src="./src/assets/logo/dwellsmart-light.png" alt="logo" className='h-10' />
         </div>
 
         {/* Middle - Links */}

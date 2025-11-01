@@ -1,0 +1,3691 @@
+[
+  {
+    "id": 1,
+    "name": "Independent House in Mumbai #1",
+    "type": "Independent House",
+    "price": "\u20b9114 Lakh",
+    "location": "Mumbai",
+    "beds": 5,
+    "baths": 4,
+    "area": "3452 sqft",
+    "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=800&q=80",
+    "amenities": [
+      "Parking",
+      "Swimming Pool",
+      "Garden",
+      "Gym"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 2,
+    "name": "Penthouse in Ahmedabad #2",
+    "type": "Penthouse",
+    "price": "\u20b964 Lakh",
+    "location": "Ahmedabad",
+    "beds": 1,
+    "baths": 1,
+    "area": "3648 sqft",
+    "img": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=800&q=80",
+    "amenities": [
+      "Garden",
+      "Clubhouse",
+      "Power Backup"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 3,
+    "name": "Apartment in Pune #3",
+    "type": "Apartment",
+    "price": "\u20b9122 Cr",
+    "location": "Pune",
+    "beds": 4,
+    "baths": 2,
+    "area": "3829 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=3",
+    "amenities": [
+      "Power Backup",
+      "Security",
+      "Lift",
+      "Clubhouse",
+      "Parking",
+      "CCTV"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 4,
+    "name": "Studio in Mumbai #4",
+    "type": "Studio",
+    "price": "\u20b9185 Cr",
+    "location": "Mumbai",
+    "beds": 5,
+    "baths": 4,
+    "area": "976 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=4",
+    "amenities": [
+      "CCTV",
+      "Parking",
+      "Swimming Pool",
+      "Gym",
+      "Garden"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 5,
+    "name": "Independent House in Chennai #5",
+    "type": "Independent House",
+    "price": "\u20b9217 Cr",
+    "location": "Chennai",
+    "beds": 5,
+    "baths": 3,
+    "area": "1271 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=5",
+    "amenities": [
+      "Clubhouse",
+      "Parking",
+      "CCTV",
+      "Garden",
+      "Security",
+      "Lift"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 6,
+    "name": "Penthouse in Noida #6",
+    "type": "Penthouse",
+    "price": "\u20b933 Cr",
+    "location": "Noida",
+    "beds": 1,
+    "baths": 4,
+    "area": "803 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=6",
+    "amenities": [
+      "Garden",
+      "CCTV",
+      "Gym"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 7,
+    "name": "Villa in Chennai #7",
+    "type": "Villa",
+    "price": "\u20b941 Cr",
+    "location": "Chennai",
+    "beds": 2,
+    "baths": 1,
+    "area": "3563 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=7",
+    "amenities": [
+      "Clubhouse",
+      "Security",
+      "Parking"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 8,
+    "name": "Apartment in Hyderabad #8",
+    "type": "Apartment",
+    "price": "\u20b981 Lakh",
+    "location": "Hyderabad",
+    "beds": 4,
+    "baths": 3,
+    "area": "2760 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=8",
+    "amenities": [
+      "Play Area",
+      "CCTV",
+      "Parking",
+      "Gym",
+      "Lift",
+      "Garden"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 9,
+    "name": "Villa in Noida #9",
+    "type": "Villa",
+    "price": "\u20b9292 Cr",
+    "location": "Noida",
+    "beds": 4,
+    "baths": 1,
+    "area": "1101 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=9",
+    "amenities": [
+      "Parking",
+      "Gym",
+      "Swimming Pool",
+      "CCTV"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 10,
+    "name": "Studio in Pune #10",
+    "type": "Studio",
+    "price": "\u20b9180 Cr",
+    "location": "Pune",
+    "beds": 2,
+    "baths": 2,
+    "area": "3139 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=10",
+    "amenities": [
+      "Play Area",
+      "Gym",
+      "Swimming Pool",
+      "Lift",
+      "Security"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 11,
+    "name": "Villa in Bengaluru #11",
+    "type": "Villa",
+    "price": "\u20b9122 Lakh",
+    "location": "Bengaluru",
+    "beds": 1,
+    "baths": 4,
+    "area": "2020 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=11",
+    "amenities": [
+      "Clubhouse",
+      "Lift",
+      "Play Area"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 12,
+    "name": "Villa in Chennai #12",
+    "type": "Villa",
+    "price": "\u20b9251 Lakh",
+    "location": "Chennai",
+    "beds": 5,
+    "baths": 2,
+    "area": "4067 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=12",
+    "amenities": [
+      "Power Backup",
+      "Clubhouse",
+      "Parking",
+      "CCTV",
+      "Play Area",
+      "Gym"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 13,
+    "name": "Penthouse in Pune #13",
+    "type": "Penthouse",
+    "price": "\u20b9126 Lakh",
+    "location": "Pune",
+    "beds": 1,
+    "baths": 4,
+    "area": "2698 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=13",
+    "amenities": [
+      "Garden",
+      "Swimming Pool",
+      "Play Area",
+      "Gym",
+      "Power Backup"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 14,
+    "name": "Apartment in Noida #14",
+    "type": "Apartment",
+    "price": "\u20b9272 Lakh",
+    "location": "Noida",
+    "beds": 1,
+    "baths": 1,
+    "area": "1050 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=14",
+    "amenities": [
+      "Play Area",
+      "Lift",
+      "Swimming Pool",
+      "Power Backup"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 15,
+    "name": "Studio in Jaipur #15",
+    "type": "Studio",
+    "price": "\u20b9159 Cr",
+    "location": "Jaipur",
+    "beds": 4,
+    "baths": 2,
+    "area": "3305 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=15",
+    "amenities": [
+      "Swimming Pool",
+      "CCTV",
+      "Gym"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 16,
+    "name": "Apartment in Delhi #16",
+    "type": "Apartment",
+    "price": "\u20b9297 Cr",
+    "location": "Delhi",
+    "beds": 2,
+    "baths": 3,
+    "area": "2987 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=16",
+    "amenities": [
+      "Swimming Pool",
+      "CCTV",
+      "Clubhouse",
+      "Security",
+      "Play Area"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 17,
+    "name": "Villa in Bengaluru #17",
+    "type": "Villa",
+    "price": "\u20b9240 Lakh",
+    "location": "Bengaluru",
+    "beds": 5,
+    "baths": 2,
+    "area": "1125 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=17",
+    "amenities": [
+      "Parking",
+      "Power Backup",
+      "Lift",
+      "Gym"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 18,
+    "name": "Studio in Bengaluru #18",
+    "type": "Studio",
+    "price": "\u20b995 Cr",
+    "location": "Bengaluru",
+    "beds": 5,
+    "baths": 2,
+    "area": "1983 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=18",
+    "amenities": [
+      "CCTV",
+      "Security",
+      "Garden"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 19,
+    "name": "Villa in Delhi #19",
+    "type": "Villa",
+    "price": "\u20b9165 Cr",
+    "location": "Delhi",
+    "beds": 5,
+    "baths": 3,
+    "area": "3656 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=19",
+    "amenities": [
+      "Lift",
+      "Gym",
+      "Parking"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 20,
+    "name": "Penthouse in Delhi #20",
+    "type": "Penthouse",
+    "price": "\u20b9176 Cr",
+    "location": "Delhi",
+    "beds": 2,
+    "baths": 2,
+    "area": "2243 sqft",
+    "img": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=800&q=800",
+    "amenities": [
+      "Parking",
+      "Garden",
+      "Clubhouse"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 21,
+    "name": "Apartment in Gurgaon #21",
+    "type": "Apartment",
+    "price": "\u20b942 Lakh",
+    "location": "Gurgaon",
+    "beds": 5,
+    "baths": 1,
+    "area": "1797 sqft",
+    "img": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=800&q=801",
+    "amenities": [
+      "Garden",
+      "Play Area",
+      "Swimming Pool",
+      "Power Backup",
+      "Security"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 22,
+    "name": "Independent House in Gurgaon #22",
+    "type": "Independent House",
+    "price": "\u20b9293 Lakh",
+    "location": "Gurgaon",
+    "beds": 5,
+    "baths": 4,
+    "area": "415 sqft",
+    "img": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=800&q=802",
+    "amenities": [
+      "CCTV",
+      "Swimming Pool",
+      "Play Area",
+      "Power Backup",
+      "Lift",
+      "Gym"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 23,
+    "name": "Villa in Chennai #23",
+    "type": "Villa",
+    "price": "\u20b9231 Cr",
+    "location": "Chennai",
+    "beds": 2,
+    "baths": 4,
+    "area": "4232 sqft",
+    "img": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=800&q=803",
+    "amenities": [
+      "Lift",
+      "Play Area",
+      "Security"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 24,
+    "name": "Villa in Noida #24",
+    "type": "Villa",
+    "price": "\u20b9223 Lakh",
+    "location": "Noida",
+    "beds": 1,
+    "baths": 3,
+    "area": "4201 sqft",
+    "img": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=800&q=804",
+    "amenities": [
+      "Gym",
+      "Garden",
+      "Security",
+      "Lift",
+      "Swimming Pool"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 25,
+    "name": "Villa in Delhi #25",
+    "type": "Villa",
+    "price": "\u20b9120 Cr",
+    "location": "Delhi",
+    "beds": 5,
+    "baths": 4,
+    "area": "1866 sqft",
+    "img": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=800&q=805",
+    "amenities": [
+      "Swimming Pool",
+      "Parking",
+      "Clubhouse",
+      "Security",
+      "Garden"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 26,
+    "name": "Penthouse in Noida #26",
+    "type": "Penthouse",
+    "price": "\u20b9272 Cr",
+    "location": "Noida",
+    "beds": 5,
+    "baths": 1,
+    "area": "2449 sqft",
+    "img": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=800&q=806",
+    "amenities": [
+      "Swimming Pool",
+      "CCTV",
+      "Security",
+      "Power Backup",
+      "Lift",
+      "Clubhouse"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 27,
+    "name": "Apartment in Pune #27",
+    "type": "Apartment",
+    "price": "\u20b9293 Cr",
+    "location": "Pune",
+    "beds": 2,
+    "baths": 3,
+    "area": "3106 sqft",
+    "img": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=800&q=807",
+    "amenities": [
+      "Power Backup",
+      "Security",
+      "Play Area",
+      "CCTV"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 28,
+    "name": "Apartment in Delhi #28",
+    "type": "Apartment",
+    "price": "\u20b984 Lakh",
+    "location": "Delhi",
+    "beds": 5,
+    "baths": 3,
+    "area": "3175 sqft",
+    "img": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=800&q=808",
+    "amenities": [
+      "Garden",
+      "Security",
+      "Play Area"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 29,
+    "name": "Independent House in Gurgaon #29",
+    "type": "Independent House",
+    "price": "\u20b9160 Lakh",
+    "location": "Gurgaon",
+    "beds": 5,
+    "baths": 4,
+    "area": "1025 sqft",
+    "img": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=800&q=809",
+    "amenities": [
+      "Garden",
+      "Gym",
+      "Lift"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 30,
+    "name": "Apartment in Bengaluru #30",
+    "type": "Apartment",
+    "price": "\u20b9124 Lakh",
+    "location": "Bengaluru",
+    "beds": 5,
+    "baths": 2,
+    "area": "2648 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=30",
+    "amenities": [
+      "Lift",
+      "Parking",
+      "CCTV"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 31,
+    "name": "Penthouse in Gurgaon #31",
+    "type": "Penthouse",
+    "price": "\u20b9298 Lakh",
+    "location": "Gurgaon",
+    "beds": 5,
+    "baths": 3,
+    "area": "2130 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=31",
+    "amenities": [
+      "Gym",
+      "Lift",
+      "CCTV",
+      "Power Backup",
+      "Clubhouse"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 32,
+    "name": "Villa in Mumbai #32",
+    "type": "Villa",
+    "price": "\u20b9112 Lakh",
+    "location": "Mumbai",
+    "beds": 4,
+    "baths": 3,
+    "area": "970 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=32",
+    "amenities": [
+      "Lift",
+      "Security",
+      "Power Backup",
+      "Gym",
+      "Garden"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 33,
+    "name": "Apartment in Noida #33",
+    "type": "Apartment",
+    "price": "\u20b993 Cr",
+    "location": "Noida",
+    "beds": 4,
+    "baths": 1,
+    "area": "2888 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=33",
+    "amenities": [
+      "Parking",
+      "Lift",
+      "Play Area",
+      "CCTV",
+      "Clubhouse",
+      "Garden"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 34,
+    "name": "Studio in Mumbai #34",
+    "type": "Studio",
+    "price": "\u20b961 Cr",
+    "location": "Mumbai",
+    "beds": 2,
+    "baths": 3,
+    "area": "2954 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=34",
+    "amenities": [
+      "Security",
+      "CCTV",
+      "Lift",
+      "Garden"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 35,
+    "name": "Villa in Bengaluru #35",
+    "type": "Villa",
+    "price": "\u20b999 Cr",
+    "location": "Bengaluru",
+    "beds": 4,
+    "baths": 4,
+    "area": "2216 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=35",
+    "amenities": [
+      "Garden",
+      "CCTV",
+      "Gym",
+      "Clubhouse"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 36,
+    "name": "Independent House in Jaipur #36",
+    "type": "Independent House",
+    "price": "\u20b962 Lakh",
+    "location": "Jaipur",
+    "beds": 5,
+    "baths": 2,
+    "area": "4132 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=36",
+    "amenities": [
+      "Clubhouse",
+      "Parking",
+      "Swimming Pool",
+      "Play Area"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 37,
+    "name": "Independent House in Jaipur #37",
+    "type": "Independent House",
+    "price": "\u20b971 Cr",
+    "location": "Jaipur",
+    "beds": 4,
+    "baths": 3,
+    "area": "1265 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=37",
+    "amenities": [
+      "CCTV",
+      "Gym",
+      "Garden",
+      "Parking",
+      "Clubhouse"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 38,
+    "name": "Studio in Noida #38",
+    "type": "Studio",
+    "price": "\u20b9166 Cr",
+    "location": "Noida",
+    "beds": 5,
+    "baths": 3,
+    "area": "966 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=38",
+    "amenities": [
+      "Play Area",
+      "Lift",
+      "CCTV"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 39,
+    "name": "Villa in Noida #39",
+    "type": "Villa",
+    "price": "\u20b9271 Lakh",
+    "location": "Noida",
+    "beds": 1,
+    "baths": 3,
+    "area": "1570 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=39",
+    "amenities": [
+      "Swimming Pool",
+      "Play Area",
+      "Lift"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 40,
+    "name": "Villa in Noida #40",
+    "type": "Villa",
+    "price": "\u20b9215 Cr",
+    "location": "Noida",
+    "beds": 1,
+    "baths": 1,
+    "area": "1082 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=40",
+    "amenities": [
+      "Garden",
+      "Parking",
+      "Power Backup",
+      "Play Area"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 41,
+    "name": "Villa in Mumbai #41",
+    "type": "Villa",
+    "price": "\u20b984 Cr",
+    "location": "Mumbai",
+    "beds": 2,
+    "baths": 2,
+    "area": "1248 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=41",
+    "amenities": [
+      "Swimming Pool",
+      "Garden",
+      "Gym",
+      "Parking"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 42,
+    "name": "Penthouse in Delhi #42",
+    "type": "Penthouse",
+    "price": "\u20b9259 Cr",
+    "location": "Delhi",
+    "beds": 5,
+    "baths": 1,
+    "area": "3252 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=42",
+    "amenities": [
+      "Gym",
+      "Lift",
+      "CCTV",
+      "Security"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 43,
+    "name": "Independent House in Ahmedabad #43",
+    "type": "Independent House",
+    "price": "\u20b9232 Lakh",
+    "location": "Ahmedabad",
+    "beds": 1,
+    "baths": 4,
+    "area": "462 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=43",
+    "amenities": [
+      "Power Backup",
+      "Parking",
+      "Security",
+      "Gym"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 44,
+    "name": "Apartment in Chennai #44",
+    "type": "Apartment",
+    "price": "\u20b980 Lakh",
+    "location": "Chennai",
+    "beds": 2,
+    "baths": 4,
+    "area": "1574 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=44",
+    "amenities": [
+      "Gym",
+      "Lift",
+      "CCTV",
+      "Clubhouse",
+      "Power Backup"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 45,
+    "name": "Villa in Delhi #45",
+    "type": "Villa",
+    "price": "\u20b9222 Lakh",
+    "location": "Delhi",
+    "beds": 2,
+    "baths": 4,
+    "area": "3282 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=45",
+    "amenities": [
+      "Play Area",
+      "CCTV",
+      "Swimming Pool",
+      "Clubhouse",
+      "Security",
+      "Power Backup"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 46,
+    "name": "Penthouse in Gurgaon #46",
+    "type": "Penthouse",
+    "price": "\u20b990 Cr",
+    "location": "Gurgaon",
+    "beds": 2,
+    "baths": 3,
+    "area": "4164 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=46",
+    "amenities": [
+      "Power Backup",
+      "Swimming Pool",
+      "Clubhouse",
+      "Gym"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 47,
+    "name": "Apartment in Ahmedabad #47",
+    "type": "Apartment",
+    "price": "\u20b983 Cr",
+    "location": "Ahmedabad",
+    "beds": 1,
+    "baths": 3,
+    "area": "1434 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=47",
+    "amenities": [
+      "Security",
+      "Swimming Pool",
+      "Lift",
+      "Parking",
+      "Power Backup"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 48,
+    "name": "Independent House in Gurgaon #48",
+    "type": "Independent House",
+    "price": "\u20b9112 Lakh",
+    "location": "Gurgaon",
+    "beds": 3,
+    "baths": 3,
+    "area": "2174 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=48",
+    "amenities": [
+      "CCTV",
+      "Lift",
+      "Security",
+      "Gym"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 49,
+    "name": "Independent House in Hyderabad #49",
+    "type": "Independent House",
+    "price": "\u20b974 Lakh",
+    "location": "Hyderabad",
+    "beds": 4,
+    "baths": 1,
+    "area": "2104 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=49",
+    "amenities": [
+      "Garden",
+      "Gym",
+      "Security",
+      "Parking"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 50,
+    "name": "Villa in Ahmedabad #50",
+    "type": "Villa",
+    "price": "\u20b9123 Cr",
+    "location": "Ahmedabad",
+    "beds": 4,
+    "baths": 1,
+    "area": "433 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=50",
+    "amenities": [
+      "Garden",
+      "Power Backup",
+      "Gym",
+      "CCTV",
+      "Security"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 51,
+    "name": "Independent House in Chennai #51",
+    "type": "Independent House",
+    "price": "\u20b981 Cr",
+    "location": "Chennai",
+    "beds": 2,
+    "baths": 4,
+    "area": "1047 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=51",
+    "amenities": [
+      "Lift",
+      "Power Backup",
+      "Clubhouse",
+      "Garden"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 52,
+    "name": "Studio in Bengaluru #52",
+    "type": "Studio",
+    "price": "\u20b9190 Lakh",
+    "location": "Bengaluru",
+    "beds": 1,
+    "baths": 1,
+    "area": "3281 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=52",
+    "amenities": [
+      "CCTV",
+      "Power Backup",
+      "Lift"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 53,
+    "name": "Studio in Noida #53",
+    "type": "Studio",
+    "price": "\u20b9142 Cr",
+    "location": "Noida",
+    "beds": 1,
+    "baths": 1,
+    "area": "2183 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=53",
+    "amenities": [
+      "Lift",
+      "Garden",
+      "Play Area",
+      "CCTV"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 54,
+    "name": "Villa in Ahmedabad #54",
+    "type": "Villa",
+    "price": "\u20b9218 Cr",
+    "location": "Ahmedabad",
+    "beds": 5,
+    "baths": 1,
+    "area": "1143 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=54",
+    "amenities": [
+      "CCTV",
+      "Gym",
+      "Security",
+      "Play Area",
+      "Swimming Pool",
+      "Clubhouse"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 55,
+    "name": "Studio in Bengaluru #55",
+    "type": "Studio",
+    "price": "\u20b9243 Cr",
+    "location": "Bengaluru",
+    "beds": 3,
+    "baths": 2,
+    "area": "2659 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=55",
+    "amenities": [
+      "Power Backup",
+      "CCTV",
+      "Garden",
+      "Play Area"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 56,
+    "name": "Apartment in Jaipur #56",
+    "type": "Apartment",
+    "price": "\u20b9180 Lakh",
+    "location": "Jaipur",
+    "beds": 4,
+    "baths": 2,
+    "area": "1725 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=56",
+    "amenities": [
+      "Security",
+      "Lift",
+      "Garden"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 57,
+    "name": "Studio in Chennai #57",
+    "type": "Studio",
+    "price": "\u20b969 Cr",
+    "location": "Chennai",
+    "beds": 2,
+    "baths": 2,
+    "area": "2233 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=57",
+    "amenities": [
+      "Garden",
+      "Power Backup",
+      "Clubhouse",
+      "CCTV",
+      "Gym"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 58,
+    "name": "Apartment in Chennai #58",
+    "type": "Apartment",
+    "price": "\u20b9100 Lakh",
+    "location": "Chennai",
+    "beds": 1,
+    "baths": 1,
+    "area": "3146 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=58",
+    "amenities": [
+      "Parking",
+      "CCTV",
+      "Power Backup",
+      "Security",
+      "Swimming Pool",
+      "Clubhouse"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 59,
+    "name": "Studio in Hyderabad #59",
+    "type": "Studio",
+    "price": "\u20b9166 Lakh",
+    "location": "Hyderabad",
+    "beds": 1,
+    "baths": 2,
+    "area": "3756 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=59",
+    "amenities": [
+      "Parking",
+      "Gym",
+      "Power Backup",
+      "Garden",
+      "Security",
+      "Play Area"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 60,
+    "name": "Villa in Ahmedabad #60",
+    "type": "Villa",
+    "price": "\u20b9173 Lakh",
+    "location": "Ahmedabad",
+    "beds": 2,
+    "baths": 4,
+    "area": "2933 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=60",
+    "amenities": [
+      "Swimming Pool",
+      "Parking",
+      "Garden",
+      "Power Backup",
+      "Play Area",
+      "Lift"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 61,
+    "name": "Studio in Bengaluru #61",
+    "type": "Studio",
+    "price": "\u20b962 Cr",
+    "location": "Bengaluru",
+    "beds": 1,
+    "baths": 1,
+    "area": "677 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=61",
+    "amenities": [
+      "CCTV",
+      "Play Area",
+      "Power Backup",
+      "Lift",
+      "Garden"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 62,
+    "name": "Penthouse in Pune #62",
+    "type": "Penthouse",
+    "price": "\u20b943 Cr",
+    "location": "Pune",
+    "beds": 5,
+    "baths": 4,
+    "area": "2409 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=62",
+    "amenities": [
+      "Lift",
+      "Garden",
+      "Swimming Pool",
+      "Security",
+      "Clubhouse"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 63,
+    "name": "Penthouse in Pune #63",
+    "type": "Penthouse",
+    "price": "\u20b9205 Cr",
+    "location": "Pune",
+    "beds": 3,
+    "baths": 4,
+    "area": "2453 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=63",
+    "amenities": [
+      "Lift",
+      "Clubhouse",
+      "Play Area",
+      "CCTV",
+      "Garden",
+      "Power Backup"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 64,
+    "name": "Penthouse in Pune #64",
+    "type": "Penthouse",
+    "price": "\u20b953 Cr",
+    "location": "Pune",
+    "beds": 1,
+    "baths": 3,
+    "area": "2225 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=64",
+    "amenities": [
+      "CCTV",
+      "Parking",
+      "Clubhouse",
+      "Gym"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 65,
+    "name": "Studio in Gurgaon #65",
+    "type": "Studio",
+    "price": "\u20b9167 Lakh",
+    "location": "Gurgaon",
+    "beds": 1,
+    "baths": 1,
+    "area": "2722 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=65",
+    "amenities": [
+      "Security",
+      "Swimming Pool",
+      "Lift",
+      "Garden",
+      "Gym",
+      "Play Area"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 66,
+    "name": "Penthouse in Chennai #66",
+    "type": "Penthouse",
+    "price": "\u20b9140 Lakh",
+    "location": "Chennai",
+    "beds": 1,
+    "baths": 4,
+    "area": "1137 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=66",
+    "amenities": [
+      "Power Backup",
+      "Gym",
+      "Lift",
+      "Parking",
+      "Play Area"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 67,
+    "name": "Villa in Mumbai #67",
+    "type": "Villa",
+    "price": "\u20b931 Lakh",
+    "location": "Mumbai",
+    "beds": 3,
+    "baths": 4,
+    "area": "3484 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=67",
+    "amenities": [
+      "Gym",
+      "Parking",
+      "Security",
+      "Clubhouse",
+      "Lift",
+      "CCTV"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 68,
+    "name": "Villa in Ahmedabad #68",
+    "type": "Villa",
+    "price": "\u20b9185 Lakh",
+    "location": "Ahmedabad",
+    "beds": 1,
+    "baths": 2,
+    "area": "1838 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=68",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "CCTV",
+      "Parking",
+      "Lift",
+      "Play Area"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 69,
+    "name": "Apartment in Ahmedabad #69",
+    "type": "Apartment",
+    "price": "\u20b972 Lakh",
+    "location": "Ahmedabad",
+    "beds": 3,
+    "baths": 1,
+    "area": "1998 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=69",
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Gym",
+      "Lift",
+      "Power Backup",
+      "Security"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 70,
+    "name": "Villa in Chennai #70",
+    "type": "Villa",
+    "price": "\u20b9191 Lakh",
+    "location": "Chennai",
+    "beds": 2,
+    "baths": 1,
+    "area": "3985 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=70",
+    "amenities": [
+      "Swimming Pool",
+      "Play Area",
+      "Lift",
+      "Security",
+      "Clubhouse"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 71,
+    "name": "Villa in Noida #71",
+    "type": "Villa",
+    "price": "\u20b952 Cr",
+    "location": "Noida",
+    "beds": 4,
+    "baths": 2,
+    "area": "4051 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=71",
+    "amenities": [
+      "Power Backup",
+      "CCTV",
+      "Gym"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 72,
+    "name": "Penthouse in Noida #72",
+    "type": "Penthouse",
+    "price": "\u20b9222 Lakh",
+    "location": "Noida",
+    "beds": 5,
+    "baths": 1,
+    "area": "1157 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=72",
+    "amenities": [
+      "Gym",
+      "Clubhouse",
+      "Lift"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 73,
+    "name": "Studio in Noida #73",
+    "type": "Studio",
+    "price": "\u20b960 Lakh",
+    "location": "Noida",
+    "beds": 4,
+    "baths": 2,
+    "area": "1216 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=73",
+    "amenities": [
+      "Garden",
+      "Security",
+      "Power Backup",
+      "Parking"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 74,
+    "name": "Villa in Hyderabad #74",
+    "type": "Villa",
+    "price": "\u20b9299 Cr",
+    "location": "Hyderabad",
+    "beds": 3,
+    "baths": 3,
+    "area": "2032 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=74",
+    "amenities": [
+      "Play Area",
+      "Swimming Pool",
+      "Lift",
+      "CCTV",
+      "Security"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 75,
+    "name": "Villa in Ahmedabad #75",
+    "type": "Villa",
+    "price": "\u20b9165 Cr",
+    "location": "Ahmedabad",
+    "beds": 1,
+    "baths": 3,
+    "area": "3010 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=75",
+    "amenities": [
+      "Garden",
+      "Security",
+      "Gym",
+      "Swimming Pool",
+      "Parking"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 76,
+    "name": "Studio in Bengaluru #76",
+    "type": "Studio",
+    "price": "\u20b9267 Cr",
+    "location": "Bengaluru",
+    "beds": 4,
+    "baths": 3,
+    "area": "962 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=76",
+    "amenities": [
+      "Security",
+      "Power Backup",
+      "Play Area",
+      "Parking",
+      "Gym"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 77,
+    "name": "Penthouse in Pune #77",
+    "type": "Penthouse",
+    "price": "\u20b956 Cr",
+    "location": "Pune",
+    "beds": 2,
+    "baths": 2,
+    "area": "711 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=77",
+    "amenities": [
+      "Security",
+      "Power Backup",
+      "Swimming Pool",
+      "CCTV",
+      "Garden",
+      "Parking"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 78,
+    "name": "Independent House in Jaipur #78",
+    "type": "Independent House",
+    "price": "\u20b956 Cr",
+    "location": "Jaipur",
+    "beds": 2,
+    "baths": 2,
+    "area": "1551 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=78",
+    "amenities": [
+      "Garden",
+      "CCTV",
+      "Security",
+      "Swimming Pool",
+      "Gym"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 79,
+    "name": "Studio in Hyderabad #79",
+    "type": "Studio",
+    "price": "\u20b936 Lakh",
+    "location": "Hyderabad",
+    "beds": 1,
+    "baths": 2,
+    "area": "2376 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=79",
+    "amenities": [
+      "CCTV",
+      "Clubhouse",
+      "Power Backup",
+      "Lift"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 80,
+    "name": "Independent House in Jaipur #80",
+    "type": "Independent House",
+    "price": "\u20b9111 Cr",
+    "location": "Jaipur",
+    "beds": 2,
+    "baths": 4,
+    "area": "3316 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=80",
+    "amenities": [
+      "CCTV",
+      "Lift",
+      "Play Area"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 81,
+    "name": "Independent House in Mumbai #81",
+    "type": "Independent House",
+    "price": "\u20b9134 Lakh",
+    "location": "Mumbai",
+    "beds": 3,
+    "baths": 4,
+    "area": "425 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=81",
+    "amenities": [
+      "Security",
+      "Play Area",
+      "Power Backup",
+      "Lift",
+      "Clubhouse"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 82,
+    "name": "Studio in Ahmedabad #82",
+    "type": "Studio",
+    "price": "\u20b988 Lakh",
+    "location": "Ahmedabad",
+    "beds": 5,
+    "baths": 2,
+    "area": "2048 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=82",
+    "amenities": [
+      "Security",
+      "Parking",
+      "Play Area",
+      "Gym",
+      "Power Backup",
+      "Clubhouse"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 83,
+    "name": "Apartment in Gurgaon #83",
+    "type": "Apartment",
+    "price": "\u20b9286 Lakh",
+    "location": "Gurgaon",
+    "beds": 4,
+    "baths": 1,
+    "area": "528 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=83",
+    "amenities": [
+      "CCTV",
+      "Clubhouse",
+      "Gym"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 84,
+    "name": "Villa in Gurgaon #84",
+    "type": "Villa",
+    "price": "\u20b9167 Lakh",
+    "location": "Gurgaon",
+    "beds": 4,
+    "baths": 3,
+    "area": "3003 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=84",
+    "amenities": [
+      "Gym",
+      "Power Backup",
+      "Play Area",
+      "Swimming Pool"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 85,
+    "name": "Independent House in Pune #85",
+    "type": "Independent House",
+    "price": "\u20b933 Lakh",
+    "location": "Pune",
+    "beds": 3,
+    "baths": 4,
+    "area": "2020 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=85",
+    "amenities": [
+      "Swimming Pool",
+      "CCTV",
+      "Clubhouse"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 86,
+    "name": "Penthouse in Noida #86",
+    "type": "Penthouse",
+    "price": "\u20b9118 Cr",
+    "location": "Noida",
+    "beds": 3,
+    "baths": 2,
+    "area": "2859 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=86",
+    "amenities": [
+      "Security",
+      "Swimming Pool",
+      "Parking",
+      "CCTV",
+      "Play Area",
+      "Power Backup"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 87,
+    "name": "Studio in Ahmedabad #87",
+    "type": "Studio",
+    "price": "\u20b995 Lakh",
+    "location": "Ahmedabad",
+    "beds": 4,
+    "baths": 2,
+    "area": "1070 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=87",
+    "amenities": [
+      "Parking",
+      "Lift",
+      "Gym",
+      "Swimming Pool",
+      "Garden",
+      "Power Backup"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 88,
+    "name": "Apartment in Mumbai #88",
+    "type": "Apartment",
+    "price": "\u20b9279 Lakh",
+    "location": "Mumbai",
+    "beds": 1,
+    "baths": 3,
+    "area": "978 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=88",
+    "amenities": [
+      "Parking",
+      "Swimming Pool",
+      "Clubhouse",
+      "Lift"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 89,
+    "name": "Penthouse in Hyderabad #89",
+    "type": "Penthouse",
+    "price": "\u20b988 Lakh",
+    "location": "Hyderabad",
+    "beds": 2,
+    "baths": 4,
+    "area": "3487 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=89",
+    "amenities": [
+      "Play Area",
+      "Security",
+      "Parking",
+      "Lift",
+      "Gym",
+      "Garden"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 90,
+    "name": "Villa in Delhi #90",
+    "type": "Villa",
+    "price": "\u20b9162 Lakh",
+    "location": "Delhi",
+    "beds": 5,
+    "baths": 2,
+    "area": "2540 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=90",
+    "amenities": [
+      "Swimming Pool",
+      "CCTV",
+      "Lift",
+      "Security",
+      "Clubhouse",
+      "Power Backup"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 91,
+    "name": "Apartment in Delhi #91",
+    "type": "Apartment",
+    "price": "\u20b965 Lakh",
+    "location": "Delhi",
+    "beds": 3,
+    "baths": 3,
+    "area": "2099 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=91",
+    "amenities": [
+      "Play Area",
+      "Garden",
+      "Security"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 92,
+    "name": "Villa in Noida #92",
+    "type": "Villa",
+    "price": "\u20b9153 Cr",
+    "location": "Noida",
+    "beds": 3,
+    "baths": 2,
+    "area": "4149 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=92",
+    "amenities": [
+      "Garden",
+      "Gym",
+      "Security",
+      "Clubhouse"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 93,
+    "name": "Villa in Bengaluru #93",
+    "type": "Villa",
+    "price": "\u20b978 Lakh",
+    "location": "Bengaluru",
+    "beds": 3,
+    "baths": 2,
+    "area": "3730 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=93",
+    "amenities": [
+      "Garden",
+      "Swimming Pool",
+      "Lift"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 94,
+    "name": "Independent House in Pune #94",
+    "type": "Independent House",
+    "price": "\u20b932 Lakh",
+    "location": "Pune",
+    "beds": 5,
+    "baths": 4,
+    "area": "3401 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=94",
+    "amenities": [
+      "Parking",
+      "Clubhouse",
+      "Garden",
+      "Security",
+      "Lift"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 95,
+    "name": "Studio in Pune #95",
+    "type": "Studio",
+    "price": "\u20b972 Lakh",
+    "location": "Pune",
+    "beds": 2,
+    "baths": 3,
+    "area": "4149 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=95",
+    "amenities": [
+      "Garden",
+      "Clubhouse",
+      "Play Area",
+      "Lift",
+      "Security",
+      "Parking"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 96,
+    "name": "Apartment in Bengaluru #96",
+    "type": "Apartment",
+    "price": "\u20b9262 Cr",
+    "location": "Bengaluru",
+    "beds": 5,
+    "baths": 1,
+    "area": "683 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=96",
+    "amenities": [
+      "CCTV",
+      "Power Backup",
+      "Gym"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 97,
+    "name": "Independent House in Pune #97",
+    "type": "Independent House",
+    "price": "\u20b943 Cr",
+    "location": "Pune",
+    "beds": 3,
+    "baths": 2,
+    "area": "3756 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=97",
+    "amenities": [
+      "Gym",
+      "CCTV",
+      "Security"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 98,
+    "name": "Penthouse in Ahmedabad #98",
+    "type": "Penthouse",
+    "price": "\u20b950 Lakh",
+    "location": "Ahmedabad",
+    "beds": 3,
+    "baths": 2,
+    "area": "3910 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=98",
+    "amenities": [
+      "Security",
+      "Gym",
+      "Clubhouse",
+      "Swimming Pool",
+      "Parking",
+      "CCTV"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 99,
+    "name": "Apartment in Hyderabad #99",
+    "type": "Apartment",
+    "price": "\u20b9148 Cr",
+    "location": "Hyderabad",
+    "beds": 4,
+    "baths": 2,
+    "area": "845 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=99",
+    "amenities": [
+      "Clubhouse",
+      "Gym",
+      "Security",
+      "Power Backup"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 100,
+    "name": "Studio in Delhi #100",
+    "type": "Studio",
+    "price": "\u20b9139 Cr",
+    "location": "Delhi",
+    "beds": 3,
+    "baths": 4,
+    "area": "2108 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=100",
+    "amenities": [
+      "Lift",
+      "Power Backup",
+      "Clubhouse",
+      "Play Area",
+      "Garden"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 101,
+    "name": "Independent House in Delhi #101",
+    "type": "Independent House",
+    "price": "\u20b9117 Cr",
+    "location": "Delhi",
+    "beds": 2,
+    "baths": 1,
+    "area": "2378 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=101",
+    "amenities": [
+      "Lift",
+      "Power Backup",
+      "Gym",
+      "CCTV",
+      "Clubhouse",
+      "Parking"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 102,
+    "name": "Studio in Mumbai #102",
+    "type": "Studio",
+    "price": "\u20b9142 Cr",
+    "location": "Mumbai",
+    "beds": 4,
+    "baths": 3,
+    "area": "3362 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=102",
+    "amenities": [
+      "CCTV",
+      "Lift",
+      "Security",
+      "Clubhouse",
+      "Power Backup"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 103,
+    "name": "Penthouse in Ahmedabad #103",
+    "type": "Penthouse",
+    "price": "\u20b9150 Lakh",
+    "location": "Ahmedabad",
+    "beds": 4,
+    "baths": 4,
+    "area": "4431 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=103",
+    "amenities": [
+      "Parking",
+      "Garden",
+      "Security",
+      "Play Area",
+      "Power Backup",
+      "Lift"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 104,
+    "name": "Penthouse in Ahmedabad #104",
+    "type": "Penthouse",
+    "price": "\u20b932 Cr",
+    "location": "Ahmedabad",
+    "beds": 5,
+    "baths": 3,
+    "area": "2420 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=104",
+    "amenities": [
+      "Lift",
+      "Security",
+      "Swimming Pool",
+      "Play Area",
+      "Clubhouse"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 105,
+    "name": "Penthouse in Jaipur #105",
+    "type": "Penthouse",
+    "price": "\u20b9181 Cr",
+    "location": "Jaipur",
+    "beds": 3,
+    "baths": 4,
+    "area": "3483 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=105",
+    "amenities": [
+      "Power Backup",
+      "CCTV",
+      "Security"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 106,
+    "name": "Independent House in Bengaluru #106",
+    "type": "Independent House",
+    "price": "\u20b9202 Cr",
+    "location": "Bengaluru",
+    "beds": 2,
+    "baths": 3,
+    "area": "1052 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=106",
+    "amenities": [
+      "Gym",
+      "CCTV",
+      "Clubhouse",
+      "Parking",
+      "Garden",
+      "Lift"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 107,
+    "name": "Villa in Delhi #107",
+    "type": "Villa",
+    "price": "\u20b9154 Cr",
+    "location": "Delhi",
+    "beds": 4,
+    "baths": 3,
+    "area": "3456 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=107",
+    "amenities": [
+      "Parking",
+      "Swimming Pool",
+      "Play Area",
+      "Garden"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 108,
+    "name": "Apartment in Delhi #108",
+    "type": "Apartment",
+    "price": "\u20b9280 Lakh",
+    "location": "Delhi",
+    "beds": 1,
+    "baths": 2,
+    "area": "1512 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=108",
+    "amenities": [
+      "Parking",
+      "CCTV",
+      "Power Backup",
+      "Lift"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 109,
+    "name": "Studio in Gurgaon #109",
+    "type": "Studio",
+    "price": "\u20b9101 Cr",
+    "location": "Gurgaon",
+    "beds": 3,
+    "baths": 4,
+    "area": "938 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=109",
+    "amenities": [
+      "Play Area",
+      "Clubhouse",
+      "Parking"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 110,
+    "name": "Penthouse in Noida #110",
+    "type": "Penthouse",
+    "price": "\u20b9262 Cr",
+    "location": "Noida",
+    "beds": 1,
+    "baths": 1,
+    "area": "545 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=110",
+    "amenities": [
+      "Power Backup",
+      "Garden",
+      "Clubhouse",
+      "Gym",
+      "Play Area"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 111,
+    "name": "Independent House in Delhi #111",
+    "type": "Independent House",
+    "price": "\u20b951 Lakh",
+    "location": "Delhi",
+    "beds": 1,
+    "baths": 2,
+    "area": "1462 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=111",
+    "amenities": [
+      "Parking",
+      "Garden",
+      "Gym"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 112,
+    "name": "Villa in Gurgaon #112",
+    "type": "Villa",
+    "price": "\u20b9130 Lakh",
+    "location": "Gurgaon",
+    "beds": 4,
+    "baths": 2,
+    "area": "1691 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=112",
+    "amenities": [
+      "Lift",
+      "Gym",
+      "Security",
+      "Play Area"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 113,
+    "name": "Independent House in Pune #113",
+    "type": "Independent House",
+    "price": "\u20b9232 Cr",
+    "location": "Pune",
+    "beds": 2,
+    "baths": 4,
+    "area": "1060 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=113",
+    "amenities": [
+      "Clubhouse",
+      "Power Backup",
+      "Parking",
+      "Gym"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 114,
+    "name": "Apartment in Mumbai #114",
+    "type": "Apartment",
+    "price": "\u20b9149 Lakh",
+    "location": "Mumbai",
+    "beds": 2,
+    "baths": 3,
+    "area": "899 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=114",
+    "amenities": [
+      "Parking",
+      "Gym",
+      "Security",
+      "Lift",
+      "Clubhouse"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 115,
+    "name": "Penthouse in Chennai #115",
+    "type": "Penthouse",
+    "price": "\u20b9200 Lakh",
+    "location": "Chennai",
+    "beds": 1,
+    "baths": 3,
+    "area": "4010 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=115",
+    "amenities": [
+      "Power Backup",
+      "Play Area",
+      "Garden"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 116,
+    "name": "Apartment in Chennai #116",
+    "type": "Apartment",
+    "price": "\u20b9230 Lakh",
+    "location": "Chennai",
+    "beds": 4,
+    "baths": 4,
+    "area": "3759 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=116",
+    "amenities": [
+      "Lift",
+      "CCTV",
+      "Security",
+      "Play Area",
+      "Power Backup"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 117,
+    "name": "Studio in Pune #117",
+    "type": "Studio",
+    "price": "\u20b9223 Cr",
+    "location": "Pune",
+    "beds": 4,
+    "baths": 3,
+    "area": "436 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=117",
+    "amenities": [
+      "Power Backup",
+      "Lift",
+      "Parking",
+      "Clubhouse"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 118,
+    "name": "Villa in Hyderabad #118",
+    "type": "Villa",
+    "price": "\u20b9127 Cr",
+    "location": "Hyderabad",
+    "beds": 5,
+    "baths": 1,
+    "area": "2367 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=118",
+    "amenities": [
+      "Parking",
+      "Gym",
+      "Clubhouse",
+      "Swimming Pool",
+      "Power Backup",
+      "Garden"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 119,
+    "name": "Villa in Delhi #119",
+    "type": "Villa",
+    "price": "\u20b935 Cr",
+    "location": "Delhi",
+    "beds": 1,
+    "baths": 4,
+    "area": "2859 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=119",
+    "amenities": [
+      "Lift",
+      "CCTV",
+      "Swimming Pool"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 120,
+    "name": "Penthouse in Chennai #120",
+    "type": "Penthouse",
+    "price": "\u20b972 Lakh",
+    "location": "Chennai",
+    "beds": 5,
+    "baths": 3,
+    "area": "3700 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=120",
+    "amenities": [
+      "Clubhouse",
+      "Power Backup",
+      "Play Area",
+      "CCTV",
+      "Garden",
+      "Lift"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 121,
+    "name": "Penthouse in Ahmedabad #121",
+    "type": "Penthouse",
+    "price": "\u20b9158 Cr",
+    "location": "Ahmedabad",
+    "beds": 4,
+    "baths": 2,
+    "area": "1829 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=121",
+    "amenities": [
+      "Lift",
+      "Security",
+      "Power Backup",
+      "Play Area",
+      "Gym",
+      "Garden"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 122,
+    "name": "Villa in Gurgaon #122",
+    "type": "Villa",
+    "price": "\u20b9154 Cr",
+    "location": "Gurgaon",
+    "beds": 1,
+    "baths": 3,
+    "area": "1358 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=122",
+    "amenities": [
+      "Clubhouse",
+      "Power Backup",
+      "Garden",
+      "Parking",
+      "Swimming Pool",
+      "CCTV"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 123,
+    "name": "Apartment in Jaipur #123",
+    "type": "Apartment",
+    "price": "\u20b9209 Lakh",
+    "location": "Jaipur",
+    "beds": 3,
+    "baths": 1,
+    "area": "4165 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=123",
+    "amenities": [
+      "Clubhouse",
+      "CCTV",
+      "Swimming Pool",
+      "Security",
+      "Gym"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 124,
+    "name": "Penthouse in Noida #124",
+    "type": "Penthouse",
+    "price": "\u20b9265 Lakh",
+    "location": "Noida",
+    "beds": 1,
+    "baths": 1,
+    "area": "3362 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=124",
+    "amenities": [
+      "Security",
+      "Parking",
+      "Play Area",
+      "Gym",
+      "CCTV",
+      "Lift"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 125,
+    "name": "Independent House in Pune #125",
+    "type": "Independent House",
+    "price": "\u20b964 Lakh",
+    "location": "Pune",
+    "beds": 3,
+    "baths": 1,
+    "area": "1177 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=125",
+    "amenities": [
+      "Parking",
+      "Swimming Pool",
+      "Lift",
+      "Security"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 126,
+    "name": "Independent House in Delhi #126",
+    "type": "Independent House",
+    "price": "\u20b9257 Lakh",
+    "location": "Delhi",
+    "beds": 4,
+    "baths": 3,
+    "area": "4190 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=126",
+    "amenities": [
+      "Garden",
+      "Security",
+      "Play Area",
+      "Parking",
+      "Power Backup"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 127,
+    "name": "Penthouse in Bengaluru #127",
+    "type": "Penthouse",
+    "price": "\u20b9181 Lakh",
+    "location": "Bengaluru",
+    "beds": 4,
+    "baths": 4,
+    "area": "732 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=127",
+    "amenities": [
+      "Power Backup",
+      "Security",
+      "Garden",
+      "Swimming Pool"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 128,
+    "name": "Apartment in Jaipur #128",
+    "type": "Apartment",
+    "price": "\u20b9261 Cr",
+    "location": "Jaipur",
+    "beds": 4,
+    "baths": 4,
+    "area": "848 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=128",
+    "amenities": [
+      "Lift",
+      "Clubhouse",
+      "Play Area"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 129,
+    "name": "Penthouse in Ahmedabad #129",
+    "type": "Penthouse",
+    "price": "\u20b9106 Cr",
+    "location": "Ahmedabad",
+    "beds": 3,
+    "baths": 2,
+    "area": "2117 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=129",
+    "amenities": [
+      "Garden",
+      "CCTV",
+      "Swimming Pool",
+      "Clubhouse"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 130,
+    "name": "Villa in Pune #130",
+    "type": "Villa",
+    "price": "\u20b9181 Cr",
+    "location": "Pune",
+    "beds": 5,
+    "baths": 2,
+    "area": "1798 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=130",
+    "amenities": [
+      "Garden",
+      "Lift",
+      "Parking",
+      "Swimming Pool"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 131,
+    "name": "Studio in Pune #131",
+    "type": "Studio",
+    "price": "\u20b935 Cr",
+    "location": "Pune",
+    "beds": 5,
+    "baths": 1,
+    "area": "2516 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=131",
+    "amenities": [
+      "CCTV",
+      "Swimming Pool",
+      "Play Area",
+      "Lift"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 132,
+    "name": "Independent House in Bengaluru #132",
+    "type": "Independent House",
+    "price": "\u20b947 Cr",
+    "location": "Bengaluru",
+    "beds": 1,
+    "baths": 3,
+    "area": "2333 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=132",
+    "amenities": [
+      "Swimming Pool",
+      "Power Backup",
+      "Garden"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 133,
+    "name": "Independent House in Chennai #133",
+    "type": "Independent House",
+    "price": "\u20b976 Lakh",
+    "location": "Chennai",
+    "beds": 4,
+    "baths": 1,
+    "area": "2378 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=133",
+    "amenities": [
+      "Lift",
+      "CCTV",
+      "Clubhouse",
+      "Play Area",
+      "Garden",
+      "Security"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 134,
+    "name": "Independent House in Pune #134",
+    "type": "Independent House",
+    "price": "\u20b9101 Cr",
+    "location": "Pune",
+    "beds": 5,
+    "baths": 3,
+    "area": "2851 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=134",
+    "amenities": [
+      "Swimming Pool",
+      "Lift",
+      "Power Backup",
+      "Play Area"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 135,
+    "name": "Villa in Pune #135",
+    "type": "Villa",
+    "price": "\u20b9112 Cr",
+    "location": "Pune",
+    "beds": 5,
+    "baths": 1,
+    "area": "2672 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=135",
+    "amenities": [
+      "Security",
+      "Clubhouse",
+      "Swimming Pool",
+      "CCTV"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 136,
+    "name": "Studio in Bengaluru #136",
+    "type": "Studio",
+    "price": "\u20b980 Lakh",
+    "location": "Bengaluru",
+    "beds": 2,
+    "baths": 2,
+    "area": "2977 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=136",
+    "amenities": [
+      "Play Area",
+      "Security",
+      "Power Backup",
+      "Garden",
+      "Clubhouse"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 137,
+    "name": "Apartment in Ahmedabad #137",
+    "type": "Apartment",
+    "price": "\u20b960 Lakh",
+    "location": "Ahmedabad",
+    "beds": 2,
+    "baths": 3,
+    "area": "2320 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=137",
+    "amenities": [
+      "Swimming Pool",
+      "Security",
+      "Garden",
+      "Parking"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 138,
+    "name": "Studio in Mumbai #138",
+    "type": "Studio",
+    "price": "\u20b9100 Cr",
+    "location": "Mumbai",
+    "beds": 2,
+    "baths": 4,
+    "area": "1204 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=138",
+    "amenities": [
+      "Power Backup",
+      "Garden",
+      "CCTV"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 139,
+    "name": "Apartment in Delhi #139",
+    "type": "Apartment",
+    "price": "\u20b9117 Cr",
+    "location": "Delhi",
+    "beds": 1,
+    "baths": 4,
+    "area": "1060 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=139",
+    "amenities": [
+      "Garden",
+      "Swimming Pool",
+      "Power Backup"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 140,
+    "name": "Penthouse in Pune #140",
+    "type": "Penthouse",
+    "price": "\u20b9102 Cr",
+    "location": "Pune",
+    "beds": 4,
+    "baths": 2,
+    "area": "1246 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=140",
+    "amenities": [
+      "Play Area",
+      "Swimming Pool",
+      "Gym",
+      "Parking"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 141,
+    "name": "Villa in Gurgaon #141",
+    "type": "Villa",
+    "price": "\u20b9260 Cr",
+    "location": "Gurgaon",
+    "beds": 4,
+    "baths": 4,
+    "area": "1234 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=141",
+    "amenities": [
+      "Swimming Pool",
+      "Parking",
+      "Gym",
+      "Garden",
+      "Play Area"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 142,
+    "name": "Villa in Delhi #142",
+    "type": "Villa",
+    "price": "\u20b9192 Lakh",
+    "location": "Delhi",
+    "beds": 3,
+    "baths": 3,
+    "area": "607 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=142",
+    "amenities": [
+      "Lift",
+      "Swimming Pool",
+      "Gym",
+      "CCTV",
+      "Clubhouse",
+      "Security"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 143,
+    "name": "Villa in Pune #143",
+    "type": "Villa",
+    "price": "\u20b9131 Lakh",
+    "location": "Pune",
+    "beds": 3,
+    "baths": 2,
+    "area": "1053 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=143",
+    "amenities": [
+      "Play Area",
+      "CCTV",
+      "Garden",
+      "Swimming Pool",
+      "Lift",
+      "Gym"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 144,
+    "name": "Independent House in Noida #144",
+    "type": "Independent House",
+    "price": "\u20b982 Lakh",
+    "location": "Noida",
+    "beds": 2,
+    "baths": 4,
+    "area": "3827 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=144",
+    "amenities": [
+      "Gym",
+      "Clubhouse",
+      "Swimming Pool"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 145,
+    "name": "Studio in Delhi #145",
+    "type": "Studio",
+    "price": "\u20b9192 Cr",
+    "location": "Delhi",
+    "beds": 2,
+    "baths": 4,
+    "area": "564 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=145",
+    "amenities": [
+      "Parking",
+      "Gym",
+      "CCTV",
+      "Clubhouse"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 146,
+    "name": "Apartment in Chennai #146",
+    "type": "Apartment",
+    "price": "\u20b975 Lakh",
+    "location": "Chennai",
+    "beds": 2,
+    "baths": 3,
+    "area": "4457 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=146",
+    "amenities": [
+      "Garden",
+      "Clubhouse",
+      "Swimming Pool",
+      "Parking",
+      "Gym"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 147,
+    "name": "Apartment in Jaipur #147",
+    "type": "Apartment",
+    "price": "\u20b9202 Lakh",
+    "location": "Jaipur",
+    "beds": 4,
+    "baths": 1,
+    "area": "4361 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=147",
+    "amenities": [
+      "Power Backup",
+      "Lift",
+      "Clubhouse"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 148,
+    "name": "Apartment in Mumbai #148",
+    "type": "Apartment",
+    "price": "\u20b9143 Cr",
+    "location": "Mumbai",
+    "beds": 5,
+    "baths": 1,
+    "area": "3600 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=148",
+    "amenities": [
+      "Play Area",
+      "CCTV",
+      "Parking",
+      "Clubhouse",
+      "Swimming Pool"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 149,
+    "name": "Villa in Mumbai #149",
+    "type": "Villa",
+    "price": "\u20b9224 Cr",
+    "location": "Mumbai",
+    "beds": 3,
+    "baths": 4,
+    "area": "4453 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=149",
+    "amenities": [
+      "Parking",
+      "Power Backup",
+      "Clubhouse"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 150,
+    "name": "Studio in Bengaluru #150",
+    "type": "Studio",
+    "price": "\u20b963 Lakh",
+    "location": "Bengaluru",
+    "beds": 2,
+    "baths": 3,
+    "area": "3498 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=150",
+    "amenities": [
+      "Security",
+      "Swimming Pool",
+      "Lift",
+      "Clubhouse",
+      "Parking"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 151,
+    "name": "Independent House in Jaipur #151",
+    "type": "Independent House",
+    "price": "\u20b9250 Cr",
+    "location": "Jaipur",
+    "beds": 3,
+    "baths": 2,
+    "area": "1662 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=151",
+    "amenities": [
+      "Swimming Pool",
+      "Play Area",
+      "Lift",
+      "CCTV",
+      "Clubhouse",
+      "Power Backup"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 152,
+    "name": "Studio in Mumbai #152",
+    "type": "Studio",
+    "price": "\u20b9157 Lakh",
+    "location": "Mumbai",
+    "beds": 1,
+    "baths": 3,
+    "area": "2399 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=152",
+    "amenities": [
+      "Power Backup",
+      "Clubhouse",
+      "Play Area"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 153,
+    "name": "Villa in Hyderabad #153",
+    "type": "Villa",
+    "price": "\u20b9180 Lakh",
+    "location": "Hyderabad",
+    "beds": 5,
+    "baths": 1,
+    "area": "4396 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=153",
+    "amenities": [
+      "Security",
+      "Garden",
+      "Parking"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 154,
+    "name": "Villa in Jaipur #154",
+    "type": "Villa",
+    "price": "\u20b972 Cr",
+    "location": "Jaipur",
+    "beds": 4,
+    "baths": 4,
+    "area": "1055 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=154",
+    "amenities": [
+      "CCTV",
+      "Clubhouse",
+      "Parking"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 155,
+    "name": "Studio in Bengaluru #155",
+    "type": "Studio",
+    "price": "\u20b9189 Cr",
+    "location": "Bengaluru",
+    "beds": 3,
+    "baths": 2,
+    "area": "2017 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=155",
+    "amenities": [
+      "Parking",
+      "Gym",
+      "Garden",
+      "Security"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 156,
+    "name": "Villa in Bengaluru #156",
+    "type": "Villa",
+    "price": "\u20b9138 Cr",
+    "location": "Bengaluru",
+    "beds": 3,
+    "baths": 3,
+    "area": "989 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=156",
+    "amenities": [
+      "Parking",
+      "Security",
+      "Garden"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 157,
+    "name": "Villa in Jaipur #157",
+    "type": "Villa",
+    "price": "\u20b941 Lakh",
+    "location": "Jaipur",
+    "beds": 4,
+    "baths": 3,
+    "area": "2499 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=157",
+    "amenities": [
+      "Parking",
+      "Clubhouse",
+      "Gym"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 158,
+    "name": "Apartment in Ahmedabad #158",
+    "type": "Apartment",
+    "price": "\u20b9233 Lakh",
+    "location": "Ahmedabad",
+    "beds": 1,
+    "baths": 2,
+    "area": "2631 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=158",
+    "amenities": [
+      "Play Area",
+      "Garden",
+      "Lift",
+      "CCTV",
+      "Security",
+      "Power Backup"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 159,
+    "name": "Apartment in Jaipur #159",
+    "type": "Apartment",
+    "price": "\u20b973 Cr",
+    "location": "Jaipur",
+    "beds": 1,
+    "baths": 3,
+    "area": "1042 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=159",
+    "amenities": [
+      "Gym",
+      "Parking",
+      "Garden",
+      "CCTV"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 160,
+    "name": "Penthouse in Noida #160",
+    "type": "Penthouse",
+    "price": "\u20b9257 Cr",
+    "location": "Noida",
+    "beds": 2,
+    "baths": 1,
+    "area": "3395 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=160",
+    "amenities": [
+      "Parking",
+      "Power Backup",
+      "Play Area",
+      "Gym",
+      "Swimming Pool"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 161,
+    "name": "Studio in Jaipur #161",
+    "type": "Studio",
+    "price": "\u20b965 Lakh",
+    "location": "Jaipur",
+    "beds": 5,
+    "baths": 1,
+    "area": "1806 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=161",
+    "amenities": [
+      "Swimming Pool",
+      "Power Backup",
+      "Lift",
+      "Security",
+      "Parking",
+      "Garden"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 162,
+    "name": "Penthouse in Hyderabad #162",
+    "type": "Penthouse",
+    "price": "\u20b9171 Lakh",
+    "location": "Hyderabad",
+    "beds": 1,
+    "baths": 1,
+    "area": "4371 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=162",
+    "amenities": [
+      "Gym",
+      "Swimming Pool",
+      "Lift"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 163,
+    "name": "Independent House in Noida #163",
+    "type": "Independent House",
+    "price": "\u20b9224 Cr",
+    "location": "Noida",
+    "beds": 3,
+    "baths": 3,
+    "area": "2505 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=163",
+    "amenities": [
+      "Lift",
+      "Gym",
+      "CCTV",
+      "Parking",
+      "Play Area"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 164,
+    "name": "Independent House in Pune #164",
+    "type": "Independent House",
+    "price": "\u20b9171 Lakh",
+    "location": "Pune",
+    "beds": 1,
+    "baths": 3,
+    "area": "1498 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=164",
+    "amenities": [
+      "Clubhouse",
+      "Security",
+      "Lift"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 165,
+    "name": "Independent House in Ahmedabad #165",
+    "type": "Independent House",
+    "price": "\u20b9266 Lakh",
+    "location": "Ahmedabad",
+    "beds": 5,
+    "baths": 1,
+    "area": "3610 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=165",
+    "amenities": [
+      "Power Backup",
+      "Security",
+      "Garden",
+      "Swimming Pool",
+      "Gym",
+      "Parking"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 166,
+    "name": "Studio in Chennai #166",
+    "type": "Studio",
+    "price": "\u20b9265 Cr",
+    "location": "Chennai",
+    "beds": 5,
+    "baths": 1,
+    "area": "3956 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=166",
+    "amenities": [
+      "Swimming Pool",
+      "Parking",
+      "Lift",
+      "Clubhouse",
+      "Play Area"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 167,
+    "name": "Independent House in Chennai #167",
+    "type": "Independent House",
+    "price": "\u20b9112 Lakh",
+    "location": "Chennai",
+    "beds": 4,
+    "baths": 2,
+    "area": "818 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=167",
+    "amenities": [
+      "CCTV",
+      "Play Area",
+      "Security"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 168,
+    "name": "Apartment in Chennai #168",
+    "type": "Apartment",
+    "price": "\u20b987 Lakh",
+    "location": "Chennai",
+    "beds": 5,
+    "baths": 2,
+    "area": "1834 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=168",
+    "amenities": [
+      "Parking",
+      "Swimming Pool",
+      "Lift",
+      "Power Backup"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 169,
+    "name": "Studio in Bengaluru #169",
+    "type": "Studio",
+    "price": "\u20b9169 Cr",
+    "location": "Bengaluru",
+    "beds": 4,
+    "baths": 1,
+    "area": "4116 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=169",
+    "amenities": [
+      "CCTV",
+      "Clubhouse",
+      "Garden",
+      "Parking",
+      "Gym"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 170,
+    "name": "Studio in Noida #170",
+    "type": "Studio",
+    "price": "\u20b9189 Cr",
+    "location": "Noida",
+    "beds": 3,
+    "baths": 4,
+    "area": "4396 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=170",
+    "amenities": [
+      "Parking",
+      "Play Area",
+      "Lift"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 171,
+    "name": "Independent House in Jaipur #171",
+    "type": "Independent House",
+    "price": "\u20b9245 Lakh",
+    "location": "Jaipur",
+    "beds": 3,
+    "baths": 2,
+    "area": "4490 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=171",
+    "amenities": [
+      "Parking",
+      "Play Area",
+      "CCTV",
+      "Clubhouse"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 172,
+    "name": "Independent House in Jaipur #172",
+    "type": "Independent House",
+    "price": "\u20b9174 Cr",
+    "location": "Jaipur",
+    "beds": 2,
+    "baths": 3,
+    "area": "1067 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=172",
+    "amenities": [
+      "Gym",
+      "Play Area",
+      "CCTV"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 173,
+    "name": "Studio in Delhi #173",
+    "type": "Studio",
+    "price": "\u20b9199 Lakh",
+    "location": "Delhi",
+    "beds": 3,
+    "baths": 4,
+    "area": "2805 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=173",
+    "amenities": [
+      "Garden",
+      "Play Area",
+      "Parking",
+      "Power Backup"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 174,
+    "name": "Apartment in Jaipur #174",
+    "type": "Apartment",
+    "price": "\u20b974 Lakh",
+    "location": "Jaipur",
+    "beds": 4,
+    "baths": 1,
+    "area": "3966 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=174",
+    "amenities": [
+      "CCTV",
+      "Play Area",
+      "Clubhouse",
+      "Gym"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 175,
+    "name": "Studio in Hyderabad #175",
+    "type": "Studio",
+    "price": "\u20b9291 Cr",
+    "location": "Hyderabad",
+    "beds": 2,
+    "baths": 1,
+    "area": "3792 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=175",
+    "amenities": [
+      "Swimming Pool",
+      "Garden",
+      "Clubhouse"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 176,
+    "name": "Independent House in Ahmedabad #176",
+    "type": "Independent House",
+    "price": "\u20b9186 Cr",
+    "location": "Ahmedabad",
+    "beds": 3,
+    "baths": 2,
+    "area": "1035 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=176",
+    "amenities": [
+      "Security",
+      "Power Backup",
+      "Lift",
+      "Clubhouse",
+      "Gym"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 177,
+    "name": "Villa in Chennai #177",
+    "type": "Villa",
+    "price": "\u20b9261 Cr",
+    "location": "Chennai",
+    "beds": 5,
+    "baths": 4,
+    "area": "3096 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=177",
+    "amenities": [
+      "Lift",
+      "Security",
+      "CCTV"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 178,
+    "name": "Villa in Chennai #178",
+    "type": "Villa",
+    "price": "\u20b9232 Cr",
+    "location": "Chennai",
+    "beds": 1,
+    "baths": 1,
+    "area": "1080 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=178",
+    "amenities": [
+      "Clubhouse",
+      "Gym",
+      "Garden",
+      "Lift",
+      "CCTV",
+      "Power Backup"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 179,
+    "name": "Penthouse in Bengaluru #179",
+    "type": "Penthouse",
+    "price": "\u20b947 Cr",
+    "location": "Bengaluru",
+    "beds": 1,
+    "baths": 3,
+    "area": "1654 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=179",
+    "amenities": [
+      "Power Backup",
+      "Parking",
+      "Play Area",
+      "Garden",
+      "CCTV"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 180,
+    "name": "Studio in Mumbai #180",
+    "type": "Studio",
+    "price": "\u20b9150 Cr",
+    "location": "Mumbai",
+    "beds": 2,
+    "baths": 4,
+    "area": "699 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=180",
+    "amenities": [
+      "Parking",
+      "Swimming Pool",
+      "Security",
+      "Clubhouse"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 181,
+    "name": "Studio in Mumbai #181",
+    "type": "Studio",
+    "price": "\u20b9189 Cr",
+    "location": "Mumbai",
+    "beds": 1,
+    "baths": 2,
+    "area": "3011 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=181",
+    "amenities": [
+      "Garden",
+      "Security",
+      "Clubhouse"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 182,
+    "name": "Penthouse in Gurgaon #182",
+    "type": "Penthouse",
+    "price": "\u20b9148 Lakh",
+    "location": "Gurgaon",
+    "beds": 3,
+    "baths": 2,
+    "area": "1640 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=182",
+    "amenities": [
+      "Gym",
+      "Parking",
+      "Play Area"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 183,
+    "name": "Apartment in Chennai #183",
+    "type": "Apartment",
+    "price": "\u20b9226 Lakh",
+    "location": "Chennai",
+    "beds": 4,
+    "baths": 4,
+    "area": "1707 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=183",
+    "amenities": [
+      "Power Backup",
+      "Clubhouse",
+      "Swimming Pool",
+      "Play Area",
+      "Parking"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 184,
+    "name": "Penthouse in Delhi #184",
+    "type": "Penthouse",
+    "price": "\u20b930 Cr",
+    "location": "Delhi",
+    "beds": 1,
+    "baths": 4,
+    "area": "3473 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=184",
+    "amenities": [
+      "Clubhouse",
+      "CCTV",
+      "Security"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 185,
+    "name": "Independent House in Delhi #185",
+    "type": "Independent House",
+    "price": "\u20b9297 Cr",
+    "location": "Delhi",
+    "beds": 2,
+    "baths": 1,
+    "area": "3633 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=185",
+    "amenities": [
+      "Security",
+      "Swimming Pool",
+      "Play Area",
+      "Clubhouse",
+      "CCTV",
+      "Lift"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 186,
+    "name": "Studio in Gurgaon #186",
+    "type": "Studio",
+    "price": "\u20b9176 Cr",
+    "location": "Gurgaon",
+    "beds": 1,
+    "baths": 2,
+    "area": "2759 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=186",
+    "amenities": [
+      "Play Area",
+      "CCTV",
+      "Clubhouse"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 187,
+    "name": "Independent House in Pune #187",
+    "type": "Independent House",
+    "price": "\u20b9115 Cr",
+    "location": "Pune",
+    "beds": 5,
+    "baths": 2,
+    "area": "3406 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=187",
+    "amenities": [
+      "Swimming Pool",
+      "Play Area",
+      "Security",
+      "Garden",
+      "Gym"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 188,
+    "name": "Penthouse in Delhi #188",
+    "type": "Penthouse",
+    "price": "\u20b933 Cr",
+    "location": "Delhi",
+    "beds": 4,
+    "baths": 3,
+    "area": "4437 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=188",
+    "amenities": [
+      "Power Backup",
+      "CCTV",
+      "Play Area",
+      "Parking",
+      "Clubhouse"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 189,
+    "name": "Independent House in Gurgaon #189",
+    "type": "Independent House",
+    "price": "\u20b9109 Cr",
+    "location": "Gurgaon",
+    "beds": 3,
+    "baths": 4,
+    "area": "1771 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=189",
+    "amenities": [
+      "Security",
+      "Gym",
+      "Power Backup",
+      "Parking",
+      "Clubhouse"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 190,
+    "name": "Villa in Gurgaon #190",
+    "type": "Villa",
+    "price": "\u20b962 Cr",
+    "location": "Gurgaon",
+    "beds": 4,
+    "baths": 1,
+    "area": "2849 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=190",
+    "amenities": [
+      "Lift",
+      "Play Area",
+      "Clubhouse",
+      "Security",
+      "Power Backup",
+      "CCTV"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 191,
+    "name": "Independent House in Mumbai #191",
+    "type": "Independent House",
+    "price": "\u20b9280 Cr",
+    "location": "Mumbai",
+    "beds": 3,
+    "baths": 4,
+    "area": "3299 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=191",
+    "amenities": [
+      "CCTV",
+      "Swimming Pool",
+      "Parking",
+      "Clubhouse",
+      "Garden",
+      "Gym"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 192,
+    "name": "Independent House in Pune #192",
+    "type": "Independent House",
+    "price": "\u20b962 Lakh",
+    "location": "Pune",
+    "beds": 2,
+    "baths": 4,
+    "area": "4370 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=192",
+    "amenities": [
+      "Play Area",
+      "Power Backup",
+      "Parking",
+      "Gym",
+      "Clubhouse"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 193,
+    "name": "Independent House in Bengaluru #193",
+    "type": "Independent House",
+    "price": "\u20b9163 Cr",
+    "location": "Bengaluru",
+    "beds": 2,
+    "baths": 1,
+    "area": "436 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=193",
+    "amenities": [
+      "Parking",
+      "Swimming Pool",
+      "Security",
+      "Garden",
+      "Clubhouse",
+      "CCTV"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 194,
+    "name": "Studio in Ahmedabad #194",
+    "type": "Studio",
+    "price": "\u20b9108 Cr",
+    "location": "Ahmedabad",
+    "beds": 1,
+    "baths": 2,
+    "area": "3290 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=194",
+    "amenities": [
+      "Security",
+      "Power Backup",
+      "Clubhouse"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 195,
+    "name": "Studio in Chennai #195",
+    "type": "Studio",
+    "price": "\u20b9252 Cr",
+    "location": "Chennai",
+    "beds": 2,
+    "baths": 1,
+    "area": "3328 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=195",
+    "amenities": [
+      "Clubhouse",
+      "Garden",
+      "Lift",
+      "Security",
+      "Gym",
+      "CCTV"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 196,
+    "name": "Studio in Gurgaon #196",
+    "type": "Studio",
+    "price": "\u20b9257 Cr",
+    "location": "Gurgaon",
+    "beds": 5,
+    "baths": 4,
+    "area": "2941 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=196",
+    "amenities": [
+      "Garden",
+      "Clubhouse",
+      "CCTV",
+      "Swimming Pool"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 197,
+    "name": "Villa in Bengaluru #197",
+    "type": "Villa",
+    "price": "\u20b983 Cr",
+    "location": "Bengaluru",
+    "beds": 5,
+    "baths": 4,
+    "area": "3681 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=197",
+    "amenities": [
+      "Lift",
+      "Play Area",
+      "Parking",
+      "Security",
+      "Clubhouse",
+      "Power Backup"
+    ],
+    "for": "Rent"
+  },
+  {
+    "id": 198,
+    "name": "Apartment in Gurgaon #198",
+    "type": "Apartment",
+    "price": "\u20b949 Lakh",
+    "location": "Gurgaon",
+    "beds": 2,
+    "baths": 1,
+    "area": "4122 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=198",
+    "amenities": [
+      "Swimming Pool",
+      "Play Area",
+      "Gym",
+      "Clubhouse"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 199,
+    "name": "Villa in Ahmedabad #199",
+    "type": "Villa",
+    "price": "\u20b9205 Lakh",
+    "location": "Ahmedabad",
+    "beds": 4,
+    "baths": 4,
+    "area": "2766 sqft",
+    "img": "https://source.unsplash.com/1600x900/?house,home,interior,apartment,villa&sig=199",
+    "amenities": [
+      "Lift",
+      "Play Area",
+      "Clubhouse",
+      "Parking"
+    ],
+    "for": "Buy"
+  },
+  {
+    "id": 200,
+    "name": "Penthouse in Hyderabad #200",
+    "type": "Penthouse",
+    "price": "\u20b9195 Lakh",
+    "location": "Hyderabad",
+    "beds": 2,
+    "baths": 4,
+    "area": "2071 sqft",
+    "img": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=800&q=8000",
+    "amenities": [
+      "Lift",
+      "Gym",
+      "Swimming Pool",
+      "Power Backup",
+      "Parking"
+    ],
+    "for": "Rent"
+  }
+]
