@@ -29,7 +29,7 @@ const DetailedCard = () => {
           alt={property.name}
           className="w-full h-full object-cover brightness-90"
         />
-        <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/20 to-transparent" />
+        <div className="absolute inset-0 bg-linear-to-t from-black/60 via-black/20 to-transparent" />
         <div className="absolute bottom-10 left-10 text-white space-y-3">
           <h1 className="text-4xl font-bold drop-shadow-lg">{property.name}</h1>
           <p className="text-lg text-gray-200">{property.location}</p>

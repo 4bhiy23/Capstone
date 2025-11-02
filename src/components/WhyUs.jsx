@@ -26,7 +26,7 @@ const features = [
 
 const WhyUs = () => {
   return (
-    <div className="py-16 bg-gradient-to-b from-[#fff8e1] via-[#ffefc2] to-[#fdf6e3] flex flex-col items-center">
+    <div className="py-16 bg-linear-to-b from-[#fff8e1] via-[#ffefc2] to-[#fdf6e3] flex flex-col items-center">
       <h2 className="text-4xl font-bold mb-10">Why Choose Us?</h2>
 
       <div className="flex flex-wrap justify-center gap-8">

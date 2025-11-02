@@ -2,7 +2,7 @@ import React from 'react'
 
 const Flow = () => {
   return (
-    <div className='flex items-center justify-center bg-gradient-to-b from-[#fff8e1] via-[#ffefc2] to-[#fdf6e3] py-20'>
+    <div className='flex items-center justify-center bg-linear-to-b from-[#fff8e1] via-[#ffefc2] to-[#fdf6e3] py-20'>
         {/* <p>Browse Properties</p>
         <p>Schedule Visits</p>
         <p>Meet Our Agents</p>
