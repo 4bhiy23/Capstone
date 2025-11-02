@@ -47,8 +47,8 @@ const testimonials = [
 
 const Testimonials = () => {
   return (
-    <section className="py-20 bg-linear-to-b from-white to-pink-50">
-      <h2 className="text-4xl font-bold text-center mb-12">
+    <section className="py-20 bg-gradient-to-b from-[#fff8e1] via-[#ffefc2] to-[#fdf6e3] text-foreground">
+      <h2 className="text-4xl font-bold text-center mb-12 text-primary">
         What Our Users Say
       </h2>
 
@@ -70,20 +70,21 @@ const Testimonials = () => {
             <motion.div
               initial={{ opacity: 0, y: 50 }}
               whileInView={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0, delay: 0.1 }}
-              className="bg-white shadow-xl rounded-2xl p-8 relative flex flex-col items-center text-center hover:-translate-y-1 transition-transform duration-300"
+              transition={{ duration: 0.4, delay: 0.1 }}
+              className="bg-card shadow-lg rounded-2xl p-10 relative flex flex-col items-center text-center 
+                         hover:-translate-y-1 transition-transform duration-300 border border-border"
             >
-              <Quote className="w-6 h-6 text-pink-400 absolute top-5 left-5 opacity-60" />
+              <Quote className="w-6 h-6 text-primary absolute top-5 left-5 opacity-60" />
               <img
                 src={t.img}
                 alt={t.name}
-                className="w-16 h-16 rounded-full mb-4 object-cover border-2 border-pink-300"
+                className="w-16 h-16 rounded-full mb-4 object-cover border-2 border-primary/50"
               />
-              <p className="text-gray-600 italic mb-4 leading-relaxed">
+              <p className="text-muted-foreground italic mb-4 leading-relaxed">
                 “{t.text}”
               </p>
-              <h4 className="font-semibold text-lg">{t.name}</h4>
-              <p className="text-gray-500 text-sm">{t.role}</p>
+              <h4 className="font-semibold text-lg text-foreground">{t.name}</h4>
+              <p className="text-sm text-muted-foreground">{t.role}</p>
             </motion.div>
           </SwiperSlide>
         ))}

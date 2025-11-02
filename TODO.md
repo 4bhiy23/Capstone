@@ -8,9 +8,9 @@
 - ❌ About
 
 ## Misc
-- ❌ Theme
-- ❌ Fav Icon
-- ❌ Logos
+- ✅ Theme
+- ✅ Fav Icon
+- ✅ Logos
 
 ## Later
 - ❌ Authentication

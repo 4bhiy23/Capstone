@@ -4,6 +4,16 @@
 @custom-variant dark (&:is(.dark *));
 /* @import "./styles/theme.css"; */
 
+
+@theme {
+  --color-charcoal: #1E1E1E;
+  --color-gold: #D4AF37;
+  --color-ivory: #F9F6EE;
+  --color-slate: #2C2C2C;
+  --color-accent: #E5C07B;
+}
+
+
 @theme inline {
   --radius-sm: calc(var(--radius) - 4px);
   --radius-md: calc(var(--radius) - 2px);
@@ -119,3 +129,4 @@
     @apply bg-background text-foreground;
   }
 }
+
