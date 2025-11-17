@@ -24,8 +24,7 @@ const Buy = () => {
         {currentCards.map((property, idx) => (
           <div
             key={idx}
-            onClick={() => handleCardCick(property)}
-            className="cursor-pointer rounded-2xl shadow-md bg-white overflow-hidden hover:scale-105 transition-transform"
+            className="rounded-2xl shadow-md bg-white overflow-hidden hover:scale-105 transition-transform"
           >
             <img
               src={
@@ -42,6 +41,12 @@ const Buy = () => {
               <p className="text-sm text-gray-600">{property.for}</p>
               <p className="text-sm text-gray-600">{property.area}</p>
               <p className="mt-2 font-bold text-yellow-700">{property.price}</p>
+            </div>
+            <div className="px-4 pb-4 flex justify-end">
+              <Button
+              className="cursor-pointer bg-yellow-600 hover:bg-yellow-700"
+              onClick={() => handleCardCick(property)}
+              >View Details ↗</Button>
             </div>
           </div>
         ))}
