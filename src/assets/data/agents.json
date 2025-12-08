@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "name": "Abhimanyu Dot",
+    "designation": "Senior Property Consultant",
+    "image": "./src/assets/images/Abhi.jpg",
+    "phone": "+91 98XX XXX 101",
+    "email": "aarav.sharma@dwellsmart.com",
+    "experience": "7 Years",
+    "propertiesSold": 86,
+    "rating": 4.9
+  },
+  {
+    "id": 2,
+    "name": "Kushagra Kaushik",
+    "designation": "Real Estate Advisor",
+    "image": "./src/assets/images/Kushagra.jpg",
+    "phone": "+91 98XX XXX 202",
+    "email": "isha.malhotra@dwellsmart.com",
+    "experience": "5 Years",
+    "propertiesSold": 63,
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "name": "Mani Amar Sehgal",
+    "designation": "Sales Executive",
+    "image": "./src/assets/images/Money.jpg",
+    "phone": "+91 98XX XXX 303",
+    "email": "rohan.gupta@dwellsmart.com",
+    "experience": "4 Years",
+    "propertiesSold": 41,
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "name": "Raja Dhaka",
+    "designation": "Property Specialist",
+    "image": "./src/assets/images/Raja.jpg",
+    "phone": "+91 98XX XXX 404",
+    "email": "neha.kapoor@dwellsmart.com",
+    "experience": "6 Years",
+    "propertiesSold": 52,
+    "rating": 4.8
+  },
+  {
+    "id": 5,
+    "name": "Swastik Mishra",
+    "designation": "Luxury Estate Manager",
+    "image": "./src/assets/images/Gaga.jpg",
+    "phone": "+91 98XX XXX 505",
+    "email": "kabir.singh@dwellsmart.com",
+    "experience": "8 Years",
+    "propertiesSold": 39,
+    "rating": 4.95
+  },
+  {
+    "id": 6,
+    "name": "Utkarsh Vashisth",
+    "designation": "Residential Property Advisor",
+    "image": "./src/assets/images/Utkarsh.jpg",
+    "phone": "+91 98XX XXX 606",
+    "email": "simran.khanna@dwellsmart.com",
+    "experience": "3 Years",
+    "propertiesSold": 28,
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "name": "Hridayraj",
+    "designation": "Commercial Property Expert",
+    "image": "./src/assets/images/Dil.jpg",
+    "phone": "+91 98XX XXX 707",
+    "email": "dev.mehta@dwellsmart.com",
+    "experience": "6 Years",
+    "propertiesSold": 44,
+    "rating": 4.7
+  },
+  {
+    "id": 8,
+    "name": "Aditya Singh Charan",
+    "designation": "Senior Realty Associate",
+    "image": "./src/assets/images/Adi.jpg",
+    "phone": "+91 98XX XXX 808",
+    "email": "ananya.verma@dwellsmart.com",
+    "experience": "5 Years",
+    "propertiesSold": 49,
+    "rating": 4.85
+  },
+  {
+    "id": 9,
+    "name": "Pippo Bhai",
+    "designation": "Investment Property Consultant",
+    "image": "./src/assets/images/Pippo.jpeg",
+    "phone": "+91 98XX XXX 909",
+    "email": "harsh.v@dwellsmart.com",
+    "experience": "9 Years",
+    "propertiesSold": 72,
+    "rating": 4.92
+  },
+  {
+    "id": 10,
+    "name": "Nabhya Singh Chandel",
+    "designation": "Real Estate Negotiation Expert",
+    "image": "./src/assets/images/Glutes.jpg",
+    "phone": "+91 97XX XXX 110",
+    "email": "aditi.rao@dwellsmart.com",
+    "experience": "4 Years",
+    "propertiesSold": 34,
+    "rating": 4.6
+  },
+  {
+    "id": 11,
+    "name": "Abhijeet Saini",
+    "designation": "Field Sales Agent",
+    "image": "./src/assets/images/Abhijeet.jpg",
+    "phone": "+91 97XX XXX 211",
+    "email": "yash.patel@dwellsmart.com",
+    "experience": "3 Years",
+    "propertiesSold": 26,
+    "rating": 4.3
+  },
+  {
+    "id": 12,
+    "name": "Hirenya Sansanwal",
+    "designation": "Senior Leasing Agent",
+    "image": "./src/assets/images/Deer.jpeg",
+    "phone": "+91 97XX XXX 312",
+    "email": "tanvi.arora@dwellsmart.com",
+    "experience": "6 Years",
+    "propertiesSold": 54,
+    "rating": 4.7
+  },
+  {
+    "id": 13,
+    "name": "Amaan",
+    "designation": "Luxury Property Advisor",
+    "image": "./src/assets/images/Amaan.jpeg",
+    "phone": "+91 96XX XXX 413",
+    "email": "kunal.mathur@dwellsmart.com",
+    "experience": "5 Years",
+    "propertiesSold": 38,
+    "rating": 4.65
+  },
+  {
+    "id": 14,
+    "name": "Rudransh Singh",
+    "designation": "Property Visit Coordinator",
+    "image": "./src/assets/images/Korean.jpeg",
+    "phone": "+91 96XX XXX 514",
+    "email": "meera.joshi@dwellsmart.com",
+    "experience": "2 Years",
+    "propertiesSold": 17,
+    "rating": 4.2
+  },
+  {
+    "id": 15,
+    "name": "Saksham Saxena",
+    "designation": "Real Estate Marketing Specialist",
+    "image": "./src/assets/images/Saghan.jpeg",
+    "phone": "+91 95XX XXX 615",
+    "email": "arjun.desai@dwellsmart.com",
+    "experience": "7 Years",
+    "propertiesSold": 48,
+    "rating": 4.78
+  },
+  {
+    "id": 16,
+    "name": "Dhruv Khare",
+    "designation": "Real Estate Marketing Specialist",
+    "image": "./src/assets/images/Dhruv.jpeg",
+    "phone": "+91 95XX XXX 615",
+    "email": "arjun.desai@dwellsmart.com",
+    "experience": "7 Years",
+    "propertiesSold": 48,
+    "rating": 4.78
+  }
+]

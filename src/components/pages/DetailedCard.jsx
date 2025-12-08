@@ -46,10 +46,10 @@ const DetailedCard = () => {
           <div className="space-y-4">
             <h2 className="text-2xl font-semibold text-gray-800">Overview</h2>
             <p className="text-gray-700 leading-relaxed max-w-2xl">
-              This {property.type.toLowerCase()} located in{" "}
+              This {property.type.toLowerCase()} located in
               <span className="font-medium text-gray-900">
                 {property.location}
-              </span>{" "}
+              </span>
               offers a modern living experience with all essential amenities and
               excellent connectivity. Perfect for families and professionals
               looking for comfort and luxury.

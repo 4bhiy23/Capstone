@@ -20,9 +20,9 @@ const About = () => {
   ];
 
   return (
-    <div className="min-h-screen px-6 py-16 bg-gradient-to-br from-[#FDFBF8] via-[#F6EBD5] to-[#F2E8C9] text-[#1C2A3A] flex flex-col items-center">
+    <div className="min-h-screen px-6 py-16 bg-linear-to-br from-[#FDFBF8] via-[#F6EBD5] to-[#F2E8C9] text-[#1C2A3A] flex flex-col items-center">
       {/* Header */}
-      <h1 className="text-4xl font-bold mb-6 text-[#D4AF37]">About DwellSmart</h1>
+      <h1 className="text-4xl font-bold mb-6 text-gold">About DwellSmart</h1>
 
       {/* Profile Info */}
       <div className="bg-white/70 backdrop-blur-md shadow-lg rounded-2xl p-8 w-full max-w-3xl border border-[#E5DCC5]">
